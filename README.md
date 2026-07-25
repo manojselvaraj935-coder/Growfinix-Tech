@@ -1,2 +1,2 @@
 # Growfinix-Tech Task 2
-Java Development Internship Tasks
+Java application to analyze server logs using Java NIO.2, Regex, and Streams API for parsing and counting log data.
